@@ -10,5 +10,5 @@ This repository contains the assignment submissions for **COL761** offered in th
 - **Daksh Dhaker**  
   2022CS51264  
 
-- **Mohit Dua**
-  2022CS51745
+- **Mohit Dua**  
+  2022CS51745  
