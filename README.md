@@ -7,8 +7,8 @@ This repository contains the assignment submissions for **COL761** offered in th
 - **Anup Nayak**  
   2022CS51827  
 
-- **Daksh Dhaker**  
-  2022CS51264  
+- **Daksh Gupta**  
+  2022CS51443  
 
 - **Mohit Dua**  
   2022CS51745  
