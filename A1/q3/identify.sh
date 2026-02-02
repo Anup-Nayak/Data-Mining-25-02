@@ -8,7 +8,7 @@ GSPAN_FP=./data_gspan.dat.fp
 
 python3 preprocess_gspan.py "$DATASET_PATH" "$TMP_GSPAN_DATA"
 
-./gSpan -f "$TMP_GSPAN_DATA" -s 0.05 -o -i
+./gSpan -f "$TMP_GSPAN_DATA" -s 0.15 -o -i
 
 python3 identify.py "$GSPAN_FP" "$OUT_FEATURE_PATH"
 
