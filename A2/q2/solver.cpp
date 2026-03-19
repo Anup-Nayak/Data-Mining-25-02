@@ -12,9 +12,9 @@
 using namespace std;
 
 
-int TIME1_MINS = 5; 
-int TIME2_MINS = 10; 
-int TIME3_MINS = 10;
+int TIME1_MINS = 25; 
+int TIME2_MINS = 15; 
+int TIME3_MINS = 15;
 
 struct Edge {
     int u, v;
